@@ -1,1 +1,1 @@
-# 32csoport_beadando
+# 32csoport_blog
