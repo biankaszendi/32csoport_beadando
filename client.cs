@@ -50,7 +50,7 @@ public class ClientProgram
 
     private void Send(Message msg, ObjectOutputStream output)
     {
-        // Implementation of send method goes here
+      
     }
 
     private class MessageHandler : Runnable
@@ -64,7 +64,7 @@ public class ClientProgram
 
         public void Run()
         {
-            // Implementation of run method goes here
+ 
         }
     }
 }
