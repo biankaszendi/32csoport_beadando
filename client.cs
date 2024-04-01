@@ -1,70 +1,51 @@
-using System;
-using System.IO;
-using System.Net.Sockets;
-using System.Threading;
-
-public class ClientProgram
+﻿namespace WebApplication1
 {
-    private static readonly string SERVER = "127.0.0.1";
-    private static readonly int PORT = 3333;
+    using System;
+    using System.Net.Sockets;
+    using System.Text;
 
-    public static void Main(string[] args)
+    class Client
     {
-        ObjectInputStream input = null;
-        ObjectOutputStream output = null;
-        try
+        static void Main(string[] args)
         {
-            using (Socket client = new Socket(SERVER, PORT))
-            {
-                Console.WriteLine("Connected to server: " + client.RemoteEndPoint);
-                input = new ObjectInputStream(client.InputStream);
-                output = new ObjectOutputStream(client.OutputStream);
+            StartClient();
+        }
 
-                new Thread(new MessageHandler(input)).Start();
-            }
-        }
-        catch (Exception e)
+        static void StartClient()
         {
-            Console.WriteLine(e.StackTrace);
-        }
-        finally
-        {
+            string ipAddress = "127.0.0.1";
+            int port = 8888;
+
             try
             {
-                input ? .Close();
+                TcpClient client = new TcpClient(ipAddress, port);
+
+                NetworkStream stream = client.GetStream();
+
+                byte[] data = new byte[1024];
+
+                Console.Write("Enter message: ");
+                string message = Console.ReadLine();
+
+                data = Encoding.UTF8.GetBytes(message);
+
+                stream.Write(data, 0, data.Length);
+
+                data = new byte[1024];
+
+                int bytes = stream.Read(data, 0, data.Length);
+                string responseData = Encoding.UTF8.GetString(data, 0, bytes);
+
+                Console.WriteLine($"Received: {responseData}");
+
+                stream.Close();
+                client.Close();
             }
-            catch (IOException ioe)
+            catch (Exception ex)
             {
-                Console.Error.WriteLine("Error during inputstream closing!");
-            }
-            try
-            {
-                output ? .Close();
-            }
-            catch (IOException ioe)
-            {
-                Console.Error.WriteLine("Error during outputstream closing!");
+                Console.WriteLine($"Exception: {ex.Message}");
             }
         }
     }
 
-    private void Send(Message msg, ObjectOutputStream output)
-    {
-      
-    }
-
-    private class MessageHandler : Runnable
-    {
-        private readonly ObjectInputStream input;
-
-        public MessageHandler(ObjectInputStream input)
-        {
-            this.input = input;
-        }
-
-        public void Run()
-        {
- 
-        }
-    }
 }
