@@ -1,4 +1,4 @@
-A futtatáshoz szükséges telepítendő szoftverek:\n
+A futtatáshoz szükséges telepítendő szoftverek:
   -Böngésző
   -Visual Studio vagy más IDE
 Ezután tudjuk futtatni az sln fájlt.
