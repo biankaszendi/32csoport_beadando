@@ -4,7 +4,7 @@ Illés Arnold <br />
 Szendi Bianka Zita<br /> 
 Sötét Panna<br />
 ### Használt technológia
-C# programozási nyelv <br />
+C# nyelv <br />
 ASP.NET framework <br />
 MS SQL Server<br />
 Swagger <br />
