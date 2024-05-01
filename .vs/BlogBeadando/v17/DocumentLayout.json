@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Migrations\\20240501165747_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogBeadando\\Migrations\\20240501165747_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Migrations\\20240501165240_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogBeadando\\Migrations\\20240501165240_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\topictypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\topictypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\topictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\topictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateAssemblyInfo.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\blogbeadando.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\blogbeadando.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240501165747_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Migrations\\20240501165747_Initial.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Migrations\\20240501165747_Initial.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Migrations\\20240501165747_Initial.cs",
+              "RelativeToolTip": "BlogBeadando\\Migrations\\20240501165747_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:57:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlogBeadando\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlogBeadando\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T16:55:56.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogBeadando\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\appsettings.Development.json",
+              "RelativeToolTip": "BlogBeadando\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T16:54:23.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240501165240_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Migrations\\20240501165240_Initial.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Migrations\\20240501165240_Initial.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Migrations\\20240501165240_Initial.cs",
+              "RelativeToolTip": "BlogBeadando\\Migrations\\20240501165240_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:52:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopicType.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\TopicType.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Models\\TopicType.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\TopicType.cs",
+              "RelativeToolTip": "BlogBeadando\\Models\\TopicType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:39:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Data\\DataContext.cs",
+              "RelativeToolTip": "BlogBeadando\\Data\\DataContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:50:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Services\\AuthService.cs",
+              "RelativeToolTip": "BlogBeadando\\Services\\AuthService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:14:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogBeadando\\appsettings.json",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\appsettings.json",
+              "RelativeToolTip": "BlogBeadando\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T08:18:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TopicTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\TopicTypesController.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\TopicTypesController.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\TopicTypesController.cs",
+              "RelativeToolTip": "BlogBeadando\\Controllers\\TopicTypesController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:39:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.GenerateAssemblyInfo.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateAssemblyInfo.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateAssemblyInfo.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateAssemblyInfo.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateAssemblyInfo.targets",
+              "ViewState": "AQIAALkAAAAAAAAAAAAawMYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-30T09:11:04.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogBeadando.csproj",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\BlogBeadando.csproj",
+              "RelativeDocumentMoniker": "BlogBeadando\\BlogBeadando.csproj",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\BlogBeadando.csproj",
+              "RelativeToolTip": "BlogBeadando\\BlogBeadando.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T09:08:04.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Program.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Program.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Program.cs",
+              "RelativeToolTip": "BlogBeadando\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:28:48.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\User.cs",
+              "RelativeToolTip": "BlogBeadando\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:14:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlogBeadando\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAiwOAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:13:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogBeadando\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIAwwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:05:12.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
