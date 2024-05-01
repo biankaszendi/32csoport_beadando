@@ -524,3 +524,5 @@ C:\Users\burja\source\repos\BlogBeadando\BlogBeadando\obj\Debug\net8.0\scopedcss
 C:\Users\burja\source\repos\BlogBeadando\BlogBeadando\obj\Debug\net8.0\BlogBead.F8B81E5F.Up2Date
 C:\Users\burja\source\repos\BlogBeadando\BlogBeadando\obj\Debug\net8.0\BlogBeadando.genruntimeconfig.cache
 C:\Users\burja\source\repos\BlogBeadando\BlogBeadando\obj\Debug\net8.0\ref\BlogBeadando.dll
+C:\Users\burja\source\repos\BlogBeadando\BlogBeadando\bin\Debug\net8.0\Resources\topics.json
+C:\Users\burja\source\repos\BlogBeadando\BlogBeadando\bin\Debug\net8.0\Resources\users.json

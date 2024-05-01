@@ -1,6 +1,7 @@
 using AutoMapper;
 using BlogBeadando.Data;
 using BlogBeadando.Helpers;
+using BlogBeadando.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -15,8 +16,9 @@ internal class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-
+        builder.Services.AddScoped<TopicService>();
         builder.Services.AddControllers();
+
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
@@ -41,6 +43,10 @@ internal class Program
 
         app.UseAuthentication();
 
+        app.UseSeedDB();
+
+        app.UseCors();
+
         app.MapControllers();
 
         app.Run();
@@ -52,6 +58,16 @@ internal class Program
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServerConnectionString"));
             }
+        });
+
+        builder.Services.AddCors(options =>
+        {
+            options.AddDefaultPolicy(builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            });
         });
 
         var config = new MapperConfiguration(cfg =>

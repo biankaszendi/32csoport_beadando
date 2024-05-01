@@ -35,7 +35,7 @@ namespace BlogBeadando.Controllers
                     {
                         return BadRequest("Passwords do not match!");
                     }
-                    if (_authService.DoesUserExist(userModel.Username)) 
+                    if (_authService.DoesUserExist(userModel.Username))
                     {
                         return BadRequest("Username already exists!");
                     }
@@ -46,6 +46,31 @@ namespace BlogBeadando.Controllers
                     if (user != null)
                     {
                         var token = _authService.GenerateJwtToken(user.Username, mappedModel.Role);
+                        return Ok(token);
+                    }
+                    return BadRequest("Username or password are not correct!");
+                }
+                return BadRequest(ModelState);
+            }
+            catch (Exception error)
+            {
+                _logger.LogError(error.Message);
+                return StatusCode(500);
+            }
+        }
+
+        [AllowAnonymous]
+        [HttpPost("Login")]
+        public ActionResult<string> Login(LoginInputModel userModel)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    if (_authService.IsAuthenticated(userModel.Username, userModel.Password))
+                    {
+                        var user = _authService.GetByUsername(userModel.Username);
+                        var token = _authService.GenerateJwtToken(userModel.Username, user.Role);
                         return Ok(token);
                     }
                     return BadRequest("Username or password are not correct!");

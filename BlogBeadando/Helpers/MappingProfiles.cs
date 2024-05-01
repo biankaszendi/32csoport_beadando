@@ -7,6 +7,7 @@ namespace BlogBeadando.Helpers
         public MappingProfiles()
         {
             CreateMap<RegisterInputModel, User>().ReverseMap();
+            CreateMap<LoginInputModel, User>().ReverseMap();
         }
     }
 }
