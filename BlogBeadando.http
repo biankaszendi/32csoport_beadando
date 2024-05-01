@@ -1,0 +1,6 @@
+@BlogBeadando_HostAddress = http://localhost:5042
+
+GET {{BlogBeadando_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
