@@ -3,6 +3,13 @@
 Illés Arnold <br />
 Szendi Bianka Zita<br /> 
 Sötét Panna<br />
+<br />
+### Koncepció
+Az elkészített alkalmazás blog bejegyzések kezelésére nyújt támogatást.<br />
+Autentikáció - bejelentkezés szükséges az alkalmazás használatához, amelyet felhasználónév és jelszó segítségével tehet meg a felhasználó. Regisztrálásra is lehetőség nyílik.<br />
+Belépés után jogosultságoktól függően lehet kezelni a topikokat, kommenteket:<br />
+törlés, új létrehozása, szűrés, listázás.<br />
+<br />
 ### Használt technológia
 C# nyelv <br />
 ASP.NET framework <br />
