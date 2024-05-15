@@ -10,6 +10,8 @@ using BlogBeadando.Data;
 using BlogBeadando.Models;
 using BlogBeadando.Services;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.SignalR;
+using static BlogBeadando.Controllers.CommentsController;
 
 namespace Server.Controllers
 {
@@ -20,12 +22,14 @@ namespace Server.Controllers
         private readonly DataContext _context;
         private readonly TopicService _topicService;
         private readonly ILogger<TopicsController> _logger;
+        private readonly IHubContext<CommentHub> _commentHubContext;
 
-        public TopicsController(DataContext context, TopicService topicService, ILogger<TopicsController> logger)
+        public TopicsController(DataContext context, TopicService topicService, ILogger<TopicsController> logger, IHubContext<CommentHub> commentHubContext)
         {
             _context = context;
             _topicService = topicService;
             _logger = logger;
+            _commentHubContext = commentHubContext;
         }
 
         [HttpGet]
@@ -47,7 +51,8 @@ namespace Server.Controllers
             return topic;
         }
 
-        [HttpPut("{id}")]
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Administrator")]
         public async Task<IActionResult> PutTopic(int id, TopicInputModel model)
         {
             if (id != model.TopicId)
@@ -96,7 +101,7 @@ namespace Server.Controllers
         }
 
         [HttpPost("AddComment")]
-        public IActionResult AddComment(Comment comment)
+        public async Task<IActionResult> AddComment(Comment comment)
         {
             try
             {
@@ -110,6 +115,10 @@ namespace Server.Controllers
                 };
 
                 _topicService.AddComment(commentModel);
+
+                await _commentHubContext.Clients.All
+                    .SendAsync("NewCommentNotification", new { CommentId = comment.CommentId });
+
                 return NoContent();
             }
             catch (Exception ex)
@@ -118,6 +127,5 @@ namespace Server.Controllers
                 return StatusCode(500);
             }
         }
-
     }
 }

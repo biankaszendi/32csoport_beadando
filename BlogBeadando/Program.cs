@@ -3,12 +3,14 @@ using BlogBeadando.Data;
 using BlogBeadando.Helpers;
 using BlogBeadando.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System.Text;
 using System.Web.Http;
+using static BlogBeadando.Controllers.CommentsController;
 
 internal class Program
 {
@@ -30,6 +32,35 @@ internal class Program
         });
 
         var app = builder.Build();
+        builder.WebHost.UseUrls("http://localhost:1234");
+        app.UseWebSockets();
+
+        builder.Services.AddControllersWithViews();
+        builder.Services.AddRazorPages();
+        builder.Services.AddSignalR();
+
+        builder.WebHost.ConfigureKestrel(options =>
+        {
+            options.ListenAnyIP(5000, listenOptions =>
+            {
+                listenOptions.Protocols = HttpProtocols.Http1AndHttp2;
+                listenOptions.UseHttps();
+            });
+            options.ListenAnyIP(5001, listenOptions =>
+            {
+                listenOptions.Protocols = HttpProtocols.Http1AndHttp2;
+            });
+            options.ListenAnyIP(5002, listenOptions =>
+            {
+                listenOptions.Protocols = HttpProtocols.Http1AndHttp2;
+            });
+        });
+
+        if (app.Environment.IsDevelopment())
+        {
+            app.UseDeveloperExceptionPage();
+        }
+
 
         if (app.Environment.IsDevelopment())
         {
@@ -37,17 +68,27 @@ internal class Program
             app.UseSwaggerUI();
         }
 
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapHub<CommentHub>("/commenthub");
+
+            endpoints.MapControllers();
+            endpoints.MapRazorPages();
+        });
+
         app.UseHttpsRedirection();
 
         app.UseAuthorization();
+
+        app.UseCors("EnableCORS");
 
         app.UseAuthentication();
 
         app.UseSeedDB();
 
-        app.UseCors();
-
         app.MapControllers();
+
+        app.UseRouting();
 
         app.Run();
 
@@ -62,7 +103,7 @@ internal class Program
 
         builder.Services.AddCors(options =>
         {
-            options.AddDefaultPolicy(builder =>
+            options.AddPolicy("EnableCORS", builder =>
             {
                 builder.AllowAnyOrigin()
                        .AllowAnyMethod()

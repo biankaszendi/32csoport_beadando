@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.SignalR;
 using BlogBeadando.Data;
 using BlogBeadando.Models;
 
@@ -15,10 +16,12 @@ namespace BlogBeadando.Controllers
     public class CommentsController : ControllerBase
     {
         private readonly DataContext _context;
+        private readonly IHubContext<CommentHub> _commentHubContext;
 
-        public CommentsController(DataContext context)
+        public CommentsController(DataContext context, IHubContext<CommentHub> commentHubContext)
         {
             _context = context;
+            _commentHubContext = commentHubContext;
         }
 
         // GET: api/Comments
@@ -80,8 +83,13 @@ namespace BlogBeadando.Controllers
         {
             _context.Comments.Add(comment);
             await _context.SaveChangesAsync();
+            await _commentHubContext.Clients.All.SendAsync("NewComment", comment);
 
             return CreatedAtAction("GetComment", new { id = comment.CommentId }, comment);
+        }
+
+        public class CommentHub : Hub
+        {
         }
 
         // DELETE: api/Comments/5

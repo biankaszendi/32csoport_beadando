@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogBeadando")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702a85f2123a672d1509710c57be07226c480634")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogBeadando")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogBeadando")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

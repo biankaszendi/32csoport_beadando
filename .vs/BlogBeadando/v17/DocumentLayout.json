@@ -1,106 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\",
+  "WorkspaceRootPath": "D:\\Egyetem\\Rendszerfejleszt\u00E9s\\uj\\BlogBeadando\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|d:\\egyetem\\rendszerfejleszt\u00E9s\\uj\\blogbeadando\\blogbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\topictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\topictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\topicinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\topicinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\registerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\registerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\favtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\favtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\eventbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\eventbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\helpers\\dbinitializerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\helpers\\dbinitializerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\helpers\\authresponsesoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\helpers\\authresponsesoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|d:\\egyetem\\rendszerfejleszt\u00E9s\\uj\\blogbeadando\\blogbeadando\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\topictypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\topictypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\favtopicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\favtopicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\resources\\topics.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\resources\\topics.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\resources\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\resources\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|c:\\users\\burja\\source\\repos\\blogbeadando\\blogbeadando\\services\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439DD58A-108D-4F39-88A8-DC1C666DCD69}|BlogBeadando\\BlogBeadando.csproj|solutionrelative:blogbeadando\\services\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,337 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\User.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Title": "TopicsController.cs",
+              "DocumentMoniker": "D:\\Egyetem\\Rendszerfejleszt\u00E9s\\uj\\BlogBeadando\\BlogBeadando\\Controllers\\TopicsController.cs",
+              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\TopicsController.cs",
+              "ToolTip": "D:\\Egyetem\\Rendszerfejleszt\u00E9s\\uj\\BlogBeadando\\BlogBeadando\\Controllers\\TopicsController.cs",
+              "RelativeToolTip": "BlogBeadando\\Controllers\\TopicsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:37:57.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TopicType.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\TopicType.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\TopicType.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\TopicType.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\TopicType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:37:46.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\RegisterInputModel.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\RegisterInputModel.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\RegisterInputModel.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\RegisterInputModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:37:04.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\LoginInputModel.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\LoginInputModel.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\LoginInputModel.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\LoginInputModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:36:53.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FavTopic.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\FavTopic.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\FavTopic.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\FavTopic.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\FavTopic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:36:43.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Helpers\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\PasswordHasher.cs",
-              "RelativeToolTip": "BlogBeadando\\Helpers\\PasswordHasher.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAuwDIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:36:08.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Helpers\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\MappingProfiles.cs",
-              "RelativeToolTip": "BlogBeadando\\Helpers\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:35:31.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AuthResponsesOperationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\AuthResponsesOperationFilter.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Helpers\\AuthResponsesOperationFilter.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\AuthResponsesOperationFilter.cs",
-              "RelativeToolTip": "BlogBeadando\\Helpers\\AuthResponsesOperationFilter.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:34:37.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Data\\DataContext.cs",
-              "RelativeToolTip": "BlogBeadando\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:34:13.893Z",
+              "WhenOpened": "2024-05-14T21:50:59.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Program.cs",
+              "DocumentMoniker": "D:\\Egyetem\\Rendszerfejleszt\u00E9s\\uj\\BlogBeadando\\BlogBeadando\\Program.cs",
               "RelativeDocumentMoniker": "BlogBeadando\\Program.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Program.cs",
+              "ToolTip": "D:\\Egyetem\\Rendszerfejleszt\u00E9s\\uj\\BlogBeadando\\BlogBeadando\\Program.cs",
               "RelativeToolTip": "BlogBeadando\\Program.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAuwJkAAAABAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:51:51.714Z",
+              "WhenOpened": "2024-05-14T21:01:17.785Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "BlogBeadando\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAMEAAAAAAAAAAAAAwOAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:34:03.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Topic.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\Topic.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\Topic.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\Topic.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\Topic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:29:19.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TopicInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\TopicInputModel.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\TopicInputModel.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\TopicInputModel.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\TopicInputModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T20:54:32.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TopicTypesController.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\TopicTypesController.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\TopicTypesController.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\TopicTypesController.cs",
-              "RelativeToolTip": "BlogBeadando\\Controllers\\TopicTypesController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAcwGsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:33:39.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FavTopicsController.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\FavTopicsController.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\FavTopicsController.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\FavTopicsController.cs",
-              "RelativeToolTip": "BlogBeadando\\Controllers\\FavTopicsController.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAmwHkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:33:18.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\Comment.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\Comment.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T20:58:42.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EventBindingModel.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\EventBindingModel.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Models\\EventBindingModel.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Models\\EventBindingModel.cs",
-              "RelativeToolTip": "BlogBeadando\\Models\\EventBindingModel.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:13:58.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CommentsController.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\CommentsController.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\CommentsController.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\CommentsController.cs",
-              "RelativeToolTip": "BlogBeadando\\Controllers\\CommentsController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAcwGsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:32:57.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "BlogBeadando\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:32:35.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DBInitializerExtension.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\DBInitializerExtension.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Helpers\\DBInitializerExtension.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Helpers\\DBInitializerExtension.cs",
-              "RelativeToolTip": "BlogBeadando\\Helpers\\DBInitializerExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:42:34.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DBSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Data\\DBSeeder.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Data\\DBSeeder.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Data\\DBSeeder.cs",
-              "RelativeToolTip": "BlogBeadando\\Data\\DBSeeder.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:37:10.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "topics.json",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Resources\\topics.json",
-              "RelativeDocumentMoniker": "BlogBeadando\\Resources\\topics.json",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Resources\\topics.json",
-              "RelativeToolTip": "BlogBeadando\\Resources\\topics.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T21:36:30.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "users.json",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Resources\\users.json",
-              "RelativeDocumentMoniker": "BlogBeadando\\Resources\\users.json",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Resources\\users.json",
-              "RelativeToolTip": "BlogBeadando\\Resources\\users.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T21:36:17.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TopicsController.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\TopicsController.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Controllers\\TopicsController.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Controllers\\TopicsController.cs",
-              "RelativeToolTip": "BlogBeadando\\Controllers\\TopicsController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAA8wHsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T20:49:28.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "TopicService.cs",
-              "DocumentMoniker": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Services\\TopicService.cs",
-              "RelativeDocumentMoniker": "BlogBeadando\\Services\\TopicService.cs",
-              "ToolTip": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\Services\\TopicService.cs",
-              "RelativeToolTip": "BlogBeadando\\Services\\TopicService.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAnwEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:04:16.168Z"
             }
           ]
         }

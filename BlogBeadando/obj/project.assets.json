@@ -9148,23 +9148,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\burja\\.nuget\\packages\\": {},
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\BlogBeadando.csproj",
+      "projectUniqueName": "D:\\Egyetem\\Rendszerfejlesztés\\uj\\BlogBeadando\\BlogBeadando\\BlogBeadando.csproj",
       "projectName": "BlogBeadando",
-      "projectPath": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\BlogBeadando.csproj",
-      "packagesPath": "C:\\Users\\burja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burja\\source\\repos\\BlogBeadando\\BlogBeadando\\obj\\",
+      "projectPath": "D:\\Egyetem\\Rendszerfejlesztés\\uj\\BlogBeadando\\BlogBeadando\\BlogBeadando.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\Egyetem\\Rendszerfejlesztés\\uj\\BlogBeadando\\BlogBeadando\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\burja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9173,7 +9173,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
